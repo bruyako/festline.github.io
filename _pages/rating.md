@@ -84,7 +84,7 @@ According to the [final rating](https://drive.google.com/open?id=1LAy1eK8vIONzIW
 1. Irina Telina
 1. Pavel Peskov, [GitHub](http://github.com/pchlq/), [twitter](https://www.twitter.com/Pchlq/), [email](mailto:peskovps@gmail.com), [LinkedIn](https://www.linkedin.com/in/pavel-peskov-8673a76/)
 1. Alexander Chernyshov, [GitHub](https://github.com/alexbolduin), [email](mailto:achernys123@gmail.com)
-1. Bruyako Maksim
+1. Bruyako Maksim [email](mailto:bruyako.maksim@yandex.ru)
 1. Chavalapalli Varun
 1. Pavel Nikalayeu, [LinkedIn](https://www.linkedin.com/in/pavelnikalayeu/), [email](mailto:pavel.nikalayeu@zoho.com)
 1. Andrey Goldin
